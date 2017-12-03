@@ -10,3 +10,5 @@ Expanatory Model: R
 Machine Learning: R
 
 Big data: Python & Pyspark
+
+Web Analytics: Python
